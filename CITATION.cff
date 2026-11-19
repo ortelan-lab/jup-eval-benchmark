@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this benchmark when using the question bank, software or reported results."
+title: "Judgment Under Pressure Evaluation (JUP-Eval)"
+authors:
+  - name: Ortelan Research
+version: "2026.11"
+date-released: 2026-11-18
+repository-code: "https://github.com/ortelan-lab/jup-eval-benchmark"
+type: dataset
